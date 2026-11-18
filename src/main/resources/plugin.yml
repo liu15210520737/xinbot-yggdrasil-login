@@ -1,0 +1,4 @@
+name: YggdrasilLogin
+main: xin.bbtt.yggdrasil.YggdrasilLoginPlugin
+version: 1.0.0-RELEASE
+type: PLUGIN
